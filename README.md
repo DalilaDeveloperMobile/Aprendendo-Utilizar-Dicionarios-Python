@@ -27,7 +27,7 @@ dados["telefone"] = "9988-1781"
 
 print(dados)  # {"nome": "Maria", "idade": 18, "telefone": "9988-1781"}
 ```
-### <img src="https://gifs.eco.br/wp-content/uploads/2021/06/gifs-de-coracao-7.gif" width="30px"> Dicionarios Aninhados:
+### <img src="https://gifs.eco.br/wp-content/uploads/2021/06/gifs-de-coracao-7.gif" width="30px"> Dicionários Aninhados:
 ```
 contatos = {
     "guilherme@gmail.com": {"nome": "Guilherme", "telefone": "3333-2221"},
